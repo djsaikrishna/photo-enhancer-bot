@@ -20,7 +20,7 @@ import Token
 encryptedFiles = ['temp_photo.png', 'enhanced_photo.png', 'enhanced_photo.pdf']
 
 token = Token.Token
-bot = telegram.Bot(token=token)
+bot = telegram.Bot(token=5688631936:AAFlW7UhMzOa2duwd2cLwifD0PJYhyf2ZeY)
 updater = Updater(token, use_context=True)
 
 
